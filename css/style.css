@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+thead {
+	font-weight: bold;
+	font-size: larger;
+}
+
+.float_left {
+	padding-top:5px;
+	padding-left:0px;
+	padding-right:5px;
+	padding-bottom:5px;
+	float: left;
+	vertical-align: top;
+}
+.float_right {
+	padding-right: 0px;
+	float: right;
+	vertical-align: top;
+}
+
+.new_line {
+	clear: both;
+}
